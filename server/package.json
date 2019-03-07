@@ -8,5 +8,11 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^3.11.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^7.3.5"
+  }
 }
